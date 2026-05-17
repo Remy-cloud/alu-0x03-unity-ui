@@ -1904,3 +1904,43 @@ Received Import Request.
 Start importing Assets/Materials/coin.mat using Guid(d92cc4e9a60d64c09ba9a86d6ef2d934) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '43e48db97e7cbb53078c1b536c0581cb') in 0.028620208 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=87427196330f67f45c9d962929ee5e7a DependenciesID=c2778526bc3b443c8d1544b55ea3ac7e StaticDependenciesID=ff0a4fc6bccdd2735739cf4fd110be5b 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 145.123153 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  importAddress: Guid(0efcf7daf538546d9945d4cf1fc8736c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(0efcf7daf538546d9945d4cf1fc8736c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '7984ba24e5a338253c33e90768e1b5c7') in 0.052785208 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e49148ffb24c4bfbb57b8ab49949dccc DependenciesID=a9330a10f84b25d2684aa83231b77a3f StaticDependenciesID=fbd46174e1cc1896a789e029d1503748 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.368019 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  importAddress: Guid(0efcf7daf538546d9945d4cf1fc8736c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Coin.prefab using Guid(0efcf7daf538546d9945d4cf1fc8736c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4360ff40f1bc70c7db9e4d728bdc2f48') in 0.012111834 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=aa160abe4b8697430161503b91afe01b DependenciesID=29d8bf289e4dac4571e2487d60a07558 StaticDependenciesID=02234dd509de05738d5ef451cb7a42c9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.883186 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  importAddress: Guid(0efcf7daf538546d9945d4cf1fc8736c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Coin.prefab using Guid(0efcf7daf538546d9945d4cf1fc8736c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '040e52f3f8abaf3c3102618a0b7a44f1') in 0.008097708 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e298427564652ab9dca21b86ca88dcf0 DependenciesID=39e91b28c1a292f252dc5cf1c5b5bce2 StaticDependenciesID=eebd9abaa6e17bcf25b8fa7bed1fc0b7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.980606 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  importAddress: Guid(0efcf7daf538546d9945d4cf1fc8736c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Coin.prefab using Guid(0efcf7daf538546d9945d4cf1fc8736c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '3558bb9e335d63e781a1e98a16e1aa04') in 0.013763666 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6a7e22ca074c421c3d5edb7ab69147c1 DependenciesID=790535f484fa028efd7765f8ab3bd171 StaticDependenciesID=15d4c4de4a8d90809d6382d04073294f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.034119 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  importAddress: Guid(0efcf7daf538546d9945d4cf1fc8736c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Coin.prefab using Guid(0efcf7daf538546d9945d4cf1fc8736c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '0e5b563f88fe6eb8d2f721271e628273') in 0.003722208 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fe696bbac20f493843aff79a7a8f1290 DependenciesID=5d491b8197c01964586b0aceb08d9914 StaticDependenciesID=f595e72673252c6c791c310274a9ff81 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
