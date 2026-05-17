@@ -283,3 +283,11 @@ Received Import Request.
 Start importing Assets/Materials/Player_color.mat using Guid(6c7894b96dfdc428fbc3276e3bd7a4b1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '64c5478379257389f42032083b0a8451') in 0.002977083 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e7d49b07650ccd6470b157940070ee15 DependenciesID=33aeac773f0761477cb47de57a668a67 StaticDependenciesID=dda79fd52f24bd16bacaf78ec32dd796 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 834.032771 seconds.
+  path: Assets/Materials/Player_color.mat
+  importAddress: Guid(6c7894b96dfdc428fbc3276e3bd7a4b1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Player_color.mat using Guid(6c7894b96dfdc428fbc3276e3bd7a4b1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '456093a010dfa719084199a06aae2c69') in 0.020396709 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=92b50530d9e172cf2e4757d4c8302104 DependenciesID=7de1f3361b92d9f162f9000bcf5fa59b StaticDependenciesID=7cc07c881f3a928a806e295f2b883bf3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+

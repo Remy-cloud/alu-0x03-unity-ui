@@ -228,3 +228,11 @@ Unloading 3209 unused Assets / (0.8 MB). Loaded Objects now: 3780.
 Memory consumption went from 83.7 MB to 82.9 MB.
 Total: 8.101333 ms (FindLiveObjects: 0.189083 ms CreateObjectMapping: 0.082042 ms MarkObjects: 7.428041 ms  DeleteObjects: 0.401583 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 435700.176316 seconds.
+  path: Assets/maze.unity
+  importAddress: Guid(90e0410ef64dca34bab9040a45a08f7b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/maze.unity using Guid(90e0410ef64dca34bab9040a45a08f7b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'afc7b4729728dc2ba50e06ea0aede1e5') in 0.065136375 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3881602ffbb2d69ec656e6f4bcec17a7 DependenciesID=550c3e63c4072f063473a1740ed490e7 StaticDependenciesID=9225f655d2e3a78b38372f3ae1ca223e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
