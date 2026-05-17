@@ -2024,3 +2024,19 @@ Memory consumption went from 95.3 MB to 95.0 MB.
 Total: 8.485375 ms (FindLiveObjects: 0.191667 ms CreateObjectMapping: 0.052625 ms MarkObjects: 7.801291 ms  DeleteObjects: 0.439250 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1386.419412 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  importAddress: Guid(ad7921efcb7434245b8731c62b375c36) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/PlayerController.cs using Guid(ad7921efcb7434245b8731c62b375c36) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '39f68109d9496d5b99e19fe92fee716b') in 0.089686291 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d6aef441b8c20948eb166093ec344f5f DependenciesID=7eac75eee29f3dd7a58fdb18e85d9d1d StaticDependenciesID=eb47c4b67f0607088d2ee4cff4df6521 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 279.571521 seconds.
+  path: Assets/maze.unity
+  importAddress: Guid(90e0410ef64dca34bab9040a45a08f7b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/maze.unity using Guid(90e0410ef64dca34bab9040a45a08f7b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'd6fa32505730bf474a91d1ecbc1c2532') in 0.016940958 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9ffae569976206e2b0d3c0e144574d67 DependenciesID=070b482b2c10cb51827216880aa3a34d StaticDependenciesID=d225b44022aaa3e3c2cea7db80b10b7f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+

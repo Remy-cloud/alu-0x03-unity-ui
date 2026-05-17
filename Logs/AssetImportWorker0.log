@@ -2346,3 +2346,59 @@ Memory consumption went from 97.5 MB to 97.3 MB.
 Total: 8.065125 ms (FindLiveObjects: 0.184292 ms CreateObjectMapping: 0.053500 ms MarkObjects: 7.402792 ms  DeleteObjects: 0.423458 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 887.676703 seconds.
+  path: Assets/Scripts/Rotator.cs
+  importAddress: Guid(e6a42b7b6d73b412b9782ca122543d24) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/Rotator.cs using Guid(e6a42b7b6d73b412b9782ca122543d24) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8b939961314b858bbb90a9b8a24df502') in 0.079321416 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f3b2872645fba8590aa503d1544e04ee DependenciesID=a999861e73c71ca2a9867ec0c518acb9 StaticDependenciesID=7bc1b6cd2a2f4c9e8c6bd16491400333 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003864 seconds.
+  path: Assets/maze.unity
+  importAddress: Guid(90e0410ef64dca34bab9040a45a08f7b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/maze.unity using Guid(90e0410ef64dca34bab9040a45a08f7b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e7bd06725472f5be5a448344b2134bcf') in 0.010616166 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=aa01f338e68ce47adcd7a8f45c49d003 DependenciesID=f32cf970a0d99c7b19e6a7f04405499e StaticDependenciesID=3e38d4c3f939ac36c630f0edfe145297 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.370473 seconds.
+  path: Assets/Materials/trap.mat
+  importAddress: Guid(d31aba5d69179483abc8533175398485) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/trap.mat using Guid(d31aba5d69179483abc8533175398485) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'bdf4bb31614a156281a5b2810412afc1') in 0.010802375 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=70516f7830ee341b82973d61ff36a4a4 DependenciesID=85292be49007176541008373e416bfae StaticDependenciesID=990a1c600220e1d82f025b68e551e567 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 193.310810 seconds.
+  path: ProjectSettings/TagManager.asset
+  importAddress: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'e3e64cafc54ce8c5c559f40f25e4d998') in 0.044419625 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=29f54aeb3707b7e7ec67b36508eeded7 DependenciesID=569562d2ee62f7aa5e8b3628c0ae8de2 StaticDependenciesID=9cb3de296233f17bed1fddc17be72a40 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.985919 seconds.
+  path: Assets/Prefabs/Trap.prefab
+  importAddress: Guid(c5276103f2d5942548afab85da655984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Trap.prefab using Guid(c5276103f2d5942548afab85da655984) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'bd912cea253d5370638f8ae7568b33d9') in 0.137181917 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d515ee902bb5a5bc352d04a315fbb913 DependenciesID=d0f20140a3b47046f860aa3e8c6eb034 StaticDependenciesID=d267e1192567f4e0731672b68054537f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.822078 seconds.
+  path: Assets/Prefabs/Trap.prefab
+  importAddress: Guid(c5276103f2d5942548afab85da655984) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/Trap.prefab using Guid(c5276103f2d5942548afab85da655984) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '5b794c63161c1bb5362cd6fd95031ae5') in 0.029062958 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1787f391639e56b743278c36792ba132 DependenciesID=06977d620988d74f629b1218c95e2a17 StaticDependenciesID=0531fca5967326caccdb05b6ba0dd9ad 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.847860 seconds.
+  path: Assets/Materials/trap.mat
+  importAddress: Guid(d31aba5d69179483abc8533175398485) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/trap.mat using Guid(d31aba5d69179483abc8533175398485) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '26c773d4287e0fc0d614b74763761a87') in 0.004636542 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=191ccd37f77da31ec4bb85d0021eb002 DependenciesID=935727198a67a93650c2248b9cce1b66 StaticDependenciesID=9e4f52d693a2bdec9993008dc8c9a572 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
