@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -25,25 +26,30 @@ public class PlayerController : MonoBehaviour
         rb.MovePosition(rb.position + movement * speed * Time.fixedDeltaTime);
     }
 
+    void Update()
+    {
+        if (health <= 0)
+        {
+            Debug.Log("Game Over!");
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+    }
+
     void OnTriggerEnter(Collider other)
     {
-        // PICKUP LOGIC
         if (other.CompareTag("Pickup"))
         {
             score++;
             Debug.Log("Score: " + score);
-
             Destroy(other.gameObject);
         }
 
-        // TRAP LOGIC
         if (other.CompareTag("Trap"))
         {
             health--;
             Debug.Log("Health: " + health);
         }
 
-        // GOAL LOGIC
         if (other.CompareTag("Goal"))
         {
             Debug.Log("You win!");
