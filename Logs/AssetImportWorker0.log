@@ -299,3 +299,11 @@ Received Import Request.
 Start importing Assets/Materials/player.mat using Guid(6c7894b96dfdc428fbc3276e3bd7a4b1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '86d3c4dbe8eb58bb752a8cb2a844f0fe') in 0.010465334 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=065e0d98eab9f1aaba4b43ff80fccc25 DependenciesID=18d79545e297333187937f2784f1d3ff StaticDependenciesID=c01467b14012467992dc97131a174275 
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 167.948554 seconds.
+  path: Assets/maze.unity
+  importAddress: Guid(90e0410ef64dca34bab9040a45a08f7b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/maze.unity using Guid(90e0410ef64dca34bab9040a45a08f7b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'fd5b1f3f7e700b8ab1efa464d4b928f2') in 0.018173292 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5ce462adc27192d2454a19a86ecd3117 DependenciesID=1c405563d6ebf9d2e7b70a6ee7b3b287 StaticDependenciesID=0ef477403c67294b73a801eac103a645 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
