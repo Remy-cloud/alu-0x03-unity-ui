@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class PlayerController : MonoBehaviour
 {
@@ -9,11 +10,18 @@ public class PlayerController : MonoBehaviour
     private Vector3 movement;
 
     private int score = 0;
+    public TMP_Text scoreText;
     public int health = 5;
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
+        SetScoreText();
+    }
+
+    void SetScoreText()
+    {
+        scoreText.text = "Score: " + score;
     }
 
     void FixedUpdate()
@@ -40,7 +48,7 @@ public class PlayerController : MonoBehaviour
         if (other.CompareTag("Pickup"))
         {
             score++;
-            Debug.Log("Score: " + score);
+            SetScoreText();
             Destroy(other.gameObject);
         }
 
