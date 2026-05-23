@@ -69,6 +69,11 @@ public class PlayerController : MonoBehaviour
 
             Invoke("RestartGame", 2f);
         }
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Menu");
+        }
     }
 
     void RestartGame()
