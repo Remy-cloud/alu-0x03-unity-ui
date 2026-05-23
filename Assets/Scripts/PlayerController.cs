@@ -11,17 +11,24 @@ public class PlayerController : MonoBehaviour
 
     private int score = 0;
     public TMP_Text scoreText;
+    public TMP_Text healthText;
     public int health = 5;
 
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         SetScoreText();
+        SetHealthText();
     }
 
     void SetScoreText()
     {
         scoreText.text = "Score: " + score;
+    }
+
+    void SetHealthText()
+    {
+        healthText.text = "Health: " + health;
     }
 
     void FixedUpdate()
@@ -55,7 +62,7 @@ public class PlayerController : MonoBehaviour
         if (other.CompareTag("Trap"))
         {
             health--;
-            Debug.Log("Health: " + health);
+            SetHealthText();
         }
 
         if (other.CompareTag("Goal"))
