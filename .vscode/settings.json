@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "unity-ui.slnx"
+    "dotnet.defaultSolution": "unity_publishing.slnx"
 }
